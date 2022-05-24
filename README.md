@@ -74,7 +74,9 @@ _2013-2017_
 
 Bachelor in Biotechnology, GPA: 3.6
 
-# Honor
+# Awards and Certificate
+IELTS 7.0
+
 UCI's Dean Honors list
 
 Pi Mu Epsilon, UCI
