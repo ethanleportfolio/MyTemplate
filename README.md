@@ -13,11 +13,12 @@ My passion lies in Applied Mathematics in Computer and Data Science. I am curren
 # Skills
 | Skills                                    | Demonstration | 
 | -------------                             |:-------------:| 
-| Problem-solving                           | Having the ability to look at a situation in different perspective                           | 
+| Problem-solving                           | Having the ability to look at a situation in different perspective, find solution quickly and effectively| 
 | Python                                    | Gain a recommendation letter from a UCI Prof. for successfully finish a final project   |  
 | Mathematics, Algorithm Statiscical skills | A cumulative GPA of 3.8   |  
 | MS Office                                 | Office jobs for more than 5 years      |
 |Time management, Organization and Detailed-Oriented| Working 3 jobs while being a full-time student|
+
 # Experience
 ## Medical and Technical Assistant
 _Hoang T Nguyen M.D Office, Fountain Valley, CA_
@@ -51,4 +52,31 @@ Aug 2021 - Current
 - Processing chemicals for chemistry, physics, and biological graduate students. 
 - Enforcing in-store guidelines and health safety procedures and regulations. 
 - Strong interpersonal and problem-solving skills
+
+# Education
+## University of California, Irvine
+_2022-2024_
+
+Master in Data Science
+
+## University of California, Irvine
+_2020-2022_
+
+Bachelor in Mathematics, GPA: 3.8
+
+## Orange Coast College
+_2018-2020_
+
+Mathematics, GPA: 3.95
+
+## International University - VNU-HCM
+_2013-2017_
+
+Bachelor in Biotechnology, GPA: 3.6
+
+# Honor
+UCI's Dean Honors list
+
+Pi Mu Epsilon, UCI
+
 
