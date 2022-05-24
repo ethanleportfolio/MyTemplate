@@ -11,13 +11,13 @@
 My passion lies in Applied Mathematics in Computer and Data Science. I am currently a Mathematics major senior at the University of California, Irvine, in the process of attending a Master's of Data Science at UCI in Fall 2022. Gaining knowledge and behavioral processes, and writing algorithms that process large amounts of information quickly and efficiently is the industry where my motivation, flexibility, and drive would be most fully realized. I am a detailed-oriented, hardworking and enthusiastic person with experience in various fields such as healthcare, retail, legal and educational services. Seeking an internship/ full-time position that can utilize my skills in data analytics, mathematics, algorithms, and programming to further advance my career as a data scientist
 
 # Skills
-| Skills                                    | Demonstration | 
-| -------------                             |:-------------:| 
-| Problem-solving                           | Having the ability to look at a situation in different perspective, find solution quickly and effectively| 
-| Python                                    | Gain a recommendation letter from a UCI Prof. for successfully finish a final project   |  
-| Mathematics, Algorithm Statiscical skills | A cumulative GPA of 3.8   |  
-| MS Office                                 | Office jobs for more than 5 years      |
-|Time management, Organization and Detailed-Oriented| Working 3 jobs while being a full-time student|
+| Skills                                            | Demonstration | 
+| --------------------------------------------------|:---------------------------------------------------------------------------------------------------:| 
+| Problem-solving                                   | Having the ability to look at a situation in different perspective,find solution quickly,effectively| 
+| Python                                            | Gain a recommendation letter from a UCI Prof. for successfully finish a final project               | 
+| Mathematics, Algorithm Statiscical skills         | A cumulative GPA of 3.8                                                                             | 
+| MS Office                                         | Office jobs for more than 5 years                                                                   |
+|Time management, Organization and Detailed-Oriented| Working 3 jobs while being a full-time student                                                      |
 
 # Experience
 ## Medical and Technical Assistant
