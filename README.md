@@ -5,4 +5,4 @@
 - 🌱 About to graduate with Honor in Mathematics at University of California - Irvine
 - 💞️ Incoming Master in Data Science at UCI 
 - 📫 You can reach me at linhthuythi.trinh@gmail.com
-- :bookmark_tabs: Check out my [resume](https://github.com/linhtrinh1803/linhtrinh1803/files/8759627/Linh.Trinh.-.Resume.pdf)
+- :bookmark_tabs: Check out my [resume](https://github.com/linhtrinh1803/linhtrinh1803/files/8759627/Linh.Trinh.-.Resume.pdf
