@@ -58,12 +58,12 @@ Aug 2021 - Current
 ## University of California, Irvine
 _2022-2024_
 
-Master in Data Science
+M.S Data Science
 
 ## University of California, Irvine
 _2020-2022_
 
-Bachelor in Mathematics, GPA: 3.8
+B.S Mathematics, GPA: 3.8
 
 ## Orange Coast College
 _2018-2020_
@@ -73,10 +73,9 @@ Mathematics, GPA: 3.95
 ## International University - VNU-HCM
 _2013-2017_
 
-Bachelor in Biotechnology, GPA: 3.6
+B.S Biotechnology, GPA: 3.6
 
 # Awards and Certificate
-IELTS 7.0
 
 UCI's Dean Honors list
 
